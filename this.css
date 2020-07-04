@@ -11,6 +11,46 @@ body{
   border-radius: 20px;
   box-shadow: 0 0 20px #fff;
   }
+#center 
+{
+  margin-top: 0px;
+  margin-left: 300px;
+  margin-right: 300px;
+  font-size: 30px;
+  background:linear-gradient();
+  box-shadow: 0 0 10px #0593ff;
+  border-radius: 20px;
+  padding: 0px 1.5px 0px 1.5pc;
+ 
+  
+}
+#left ul li{
+ 
+  list-style: none;
+  clear: left;
+  float: left;
+  margin-top: 20px;
+}
+
+#right ul li{
+  margin-top: 20px;
+  list-style: none;
+
+ 
+  
+}
+#right{
+  margin-right: 40 px;
+  float: right;
+  margin-top: -1220px;
+  
+
+}
+#logo p{
+
+  margin-left:514;
+
+}
 
 
 
