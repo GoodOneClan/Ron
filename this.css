@@ -4,7 +4,7 @@ body{
 #div1 p{
   background: linear-gradient(90deg,#00c8ff,#ff00f7);
   font-size: 30px;
-  margin-top:20px;
+  margin-top:10px;
   margin-left: 360px;
   margin-right: 360px;
   text-align: center;
@@ -14,7 +14,7 @@ body{
    #div1 ul{
     background: linear-gradient();
     font-size: 30px;
-    margin-top: -64px;
+    margin-top: -74px;
     width: 165;
     height: 80;
     margin-left: 48px;
