@@ -95,20 +95,20 @@
 
 #loading-screen .maou-circle-container .maou-circle.p1{
   background:url(https://i.imgur.com/wJ4cMuU.png);
-  animation:spinRight 32s linear infinite,fadeIn 5s
+  animation:spinRight 21s linear infinite,fadeIn 15s
 }
 #loading-screen .maou-circle-container .maou-circle.p2{
   background:url(https://i.imgur.com/XVwE9lf.png);
-  animation:spinLeft 8s linear infinite,fadeIn 5s
+  animation:spinLeft 10s linear infinite,fadeIn 15s
 }
 #loading-screen .maou-circle-container .maou-circle.p3{
   background:url(https://i.imgur.com/KQWheqN.png);
-  animation:spinRight 16s linear infinite,fadeIn 5s;
+  animation:spinRight 13s linear infinite,fadeIn 15s;
 }
 
 #loading-screen .maou-circle-container .maou-circle.p4{
   background:url(https://i.imgur.com/NCFxmjs.png);
-  animation:spinRight 0s linear infinite,fadeIn 10s;
+  animation:spinRight 0s linear infinite,fadeIn 15s;
 }
 
 #loading-screen .message{
