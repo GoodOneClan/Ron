@@ -1,27 +1,39 @@
 body{
-  background:#b3d6ff;
+  background:#000;
 }
-#div1 {
+#div1 p{
   background: linear-gradient(90deg,#00c8ff,#ff00f7);
   font-size: 30px;
   margin-top:20px;
-  margin-left: 300px;
-  margin-right: 300px;
+  margin-left: 360px;
+  margin-right: 360px;
   text-align: center;
   border-radius: 20px;
   box-shadow: 0 0 20px #fff;
   }
+  #div1 ul{
+    background: linear-gradient();
+    font-size: 30px;
+    margin-top: -64px;
+    margin-left: 47px;
+    margin-right:1075px;
+    
+    border-radius: 20px;
+    box-shadow: 0 0 20px #fff;
+    text-decoration: none;
+    }
 
 #center 
 {
-  margin-top: 0px;
+  margin-bottom:20px;
   margin-left: 300px;
   margin-right: 300px;
   font-size: 30px;
   background:linear-gradient();
   box-shadow: 0 0 10px #0593ff;
   border-radius: 20px;
-  padding: 0px 1.5px 0px 1.5pc;
+ 
+  
  
   
 }
@@ -44,11 +56,13 @@ body{
   margin-right: 40px;
   float: right;
   margin-top: -1708px;
+
   
 
 }
-#logo p{
 
-  margin-left:514;
-
+#ds {
+  background: linear-gradient();
+  font-size: 30px;
+ 
 }
