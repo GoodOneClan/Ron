@@ -11,13 +11,14 @@ body{
   border-radius: 20px;
   box-shadow: 0 0 20px #fff;
   }
-  #div1 ul{
+   #div1 ul{
     background: linear-gradient();
     font-size: 30px;
     margin-top: -64px;
-    margin-left: 47px;
-    margin-right:1075px;
-    
+    width: 165;
+    height: 80;
+    margin-left: 48px;
+    text-align:left;
     border-radius: 20px;
     box-shadow: 0 0 20px #fff;
     text-decoration: none;
